@@ -260,7 +260,7 @@ graph TD;
 ## 📥 Installation
 
 ### 1️⃣ Install Aptos CLI  
-Follow the official [Aptos CLI installation guide](https://aptos.dev/tools/cli/install-cli).
+Follow the official [Aptos CLI installation guide](https://aptos.dev/en/build/cli).
 
 ### 2️⃣ Set Up Move Development Environment  
 Use [Remix IDE for Move](https://remix.ethereum.org) or set up a local environment as needed.
