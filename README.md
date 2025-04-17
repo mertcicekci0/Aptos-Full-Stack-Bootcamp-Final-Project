@@ -407,7 +407,7 @@ graph TD
 
 # 🌐 Main Page Overview
 
-<img src="MainPage.png" alt="Main Page" width="600"/>
+<img src="Mainpage.png" alt="Main Page" width="600"/>
 
 This is the main page of our website, showcasing the core features and layout.
 ---
