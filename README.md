@@ -405,6 +405,13 @@ graph TD
 
 ---
 
+## 🌐 Main Page Overview
+![Main Page](MainPage.png)
+
+This is the main page of our website, showcasing the core features and layout.
+
+---
+
 ##  🖊️ License
 MIT License
 This project is open-source and free to use for educational, personal, and commercial purposes.
