@@ -406,7 +406,7 @@ graph TD
 ---
 
 ## 🌐 Main Page Overview
-![Main Page](MainPage.png)
+![Main Page](Mainpage.png)
 
 This is the main page of our website, showcasing the core features and layout.
 
